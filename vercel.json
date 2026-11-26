@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://new-domain.com/$1",
+      "destination": "https://gitcg.top/$1",
       "permanent": true
     }
   ]
